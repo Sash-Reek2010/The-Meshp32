@@ -24,6 +24,11 @@ This PCB is also made in KiCAD!
 
 <img width="372" height="420" alt="PCB View Back" src="https://github.com/user-attachments/assets/c594a12c-cc1a-4905-8d81-4ab50f434b5a" />
 
+## Case
+<img width="1920" height="556" alt="Devboard 1" src="https://github.com/user-attachments/assets/eeee0de3-675d-4240-9e85-2ce3d4b35d67" />
+
+<img width="1920" height="556" alt="Devboard 2" src="https://github.com/user-attachments/assets/42a430f9-4116-4c38-b8dc-4271770f28a8" />
+
 ## Meshtastic Firmware
 
 https://github.com/meshtastic/meshtastic
