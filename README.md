@@ -29,9 +29,16 @@ This PCB is also made in KiCAD!
 
 
 ## Case
-<img width="1920" height="556" alt="Devboard 1" src="https://github.com/user-attachments/assets/eeee0de3-675d-4240-9e85-2ce3d4b35d67" />
 
-<img width="1920" height="556" alt="Devboard 2" src="https://github.com/user-attachments/assets/42a430f9-4116-4c38-b8dc-4271770f28a8" />
+<img width="1920" height="736" alt="The Meshp32 Case" src="https://github.com/user-attachments/assets/65090595-c8eb-41c4-9ee7-fbc58308c1c6" />
+
+
+<img width="491" height="556" alt="The Meshp32" src="https://github.com/user-attachments/assets/61436e90-38fb-4aca-80c9-1a3d0a538a56" />
+
+
+## Try it out!
+
+https://kicanvas.org/?repo=https%3A%2F%2Fgithub.com%2FSash-Reek2010%2FThe-Meshp32%2Ftree%2Fmain%2FSource%2FKiCAD
 
 ## Meshtastic Firmware
 
