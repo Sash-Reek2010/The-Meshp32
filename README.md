@@ -6,23 +6,27 @@ An ESP32 based devboard who's main purpose is to run Meshtastic firmware! It has
 ## The Schematic
 This schematic is made in KiCAD!
 
-<img width="517" height="355" alt="PCB Schematic" src="https://github.com/user-attachments/assets/87125dab-4426-4d2e-b00b-d2c9a4c4ad70" />
 
+
+<img width="537" height="368" alt="lora schematic" src="https://github.com/user-attachments/assets/877f01ce-2336-4a40-bcb4-df20e7407822" />
 
 ## The PCB
 This PCB is also made in KiCAD!
 
-<img width="420" height="365" alt="PCB Back" src="https://github.com/user-attachments/assets/1b07ecc7-5f90-4304-a6a9-1643b11b5183" />
+<img width="352" height="367" alt="lora front pcb" src="https://github.com/user-attachments/assets/46a977e6-ffdf-418d-91ce-be3b8972c011" />
 
 
-<img width="377" height="372" alt="PCB Front" src="https://github.com/user-attachments/assets/04a58f65-27e3-4bc8-bed1-8fd8efcf09b1" />
+
+<img width="354" height="380" alt="lora back pcb" src="https://github.com/user-attachments/assets/75ddf988-bd93-4f49-b74f-30e0da302ec6" />
 
 ## PCB View
 
-<img width="395" height="423" alt="PCB View Front" src="https://github.com/user-attachments/assets/19dd62e3-c6a7-4f5a-ba36-5045e49ae083" />
+
+<img width="354" height="425" alt="lora back view" src="https://github.com/user-attachments/assets/b1c74f43-63d1-42c7-a710-b136c5976223" />
 
 
-<img width="372" height="420" alt="PCB View Back" src="https://github.com/user-attachments/assets/c594a12c-cc1a-4905-8d81-4ab50f434b5a" />
+<img width="351" height="392" alt="lora front view" src="https://github.com/user-attachments/assets/3811811c-3189-42fc-83ea-d6b76cc6261e" />
+
 
 ## Case
 <img width="1920" height="556" alt="Devboard 1" src="https://github.com/user-attachments/assets/eeee0de3-675d-4240-9e85-2ce3d4b35d67" />
