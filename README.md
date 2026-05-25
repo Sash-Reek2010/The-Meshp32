@@ -38,7 +38,7 @@ This PCB is also made in KiCAD!
 
 ## Try it out!
 
-https://kicanvas.org/?repo=https%3A%2F%2Fgithub.com%2FSash-Reek2010%2FThe-Meshp32%2Ftree%2Fmain%2FSource%2FKiCAD
+[KiCanvas Link](https://kicanvas.org/?repo=https%3A%2F%2Fgithub.com%2FSash-Reek2010%2FThe-Meshp32%2Ftree%2Fmain%2FSource%2FKiCAD)
 
 ## Meshtastic Firmware
 
