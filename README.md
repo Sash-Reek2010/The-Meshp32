@@ -13,19 +13,22 @@ This schematic is made in KiCAD!
 ## The PCB
 This PCB is also made in KiCAD!
 
-<img width="352" height="367" alt="lora front pcb" src="https://github.com/user-attachments/assets/46a977e6-ffdf-418d-91ce-be3b8972c011" />
+
+<img width="303" height="367" alt="Devboard 1" src="https://github.com/user-attachments/assets/780eb010-0671-47ac-9594-890b1cb126f7" />
 
 
+<img width="307" height="370" alt="Devboard 2" src="https://github.com/user-attachments/assets/c3fdf35a-3e1a-424b-812b-1b9b1d6a159f" />
 
-<img width="354" height="380" alt="lora back pcb" src="https://github.com/user-attachments/assets/75ddf988-bd93-4f49-b74f-30e0da302ec6" />
 
 ## PCB View
 
 
-<img width="354" height="425" alt="lora back view" src="https://github.com/user-attachments/assets/b1c74f43-63d1-42c7-a710-b136c5976223" />
+<img width="344" height="436" alt="Devboard 3" src="https://github.com/user-attachments/assets/4303f0a2-4f8d-437f-a3d3-a107b2444682" />
 
 
-<img width="351" height="392" alt="lora front view" src="https://github.com/user-attachments/assets/3811811c-3189-42fc-83ea-d6b76cc6261e" />
+
+<img width="346" height="432" alt="devboard 4" src="https://github.com/user-attachments/assets/a5161b32-bdac-437c-bbea-185f0807b7f8" />
+
 
 
 ## Case
