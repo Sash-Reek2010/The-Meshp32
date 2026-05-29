@@ -33,10 +33,11 @@ This PCB is also made in KiCAD!
 
 ## Case
 
-<img width="1920" height="736" alt="The Meshp32 Case" src="https://github.com/user-attachments/assets/65090595-c8eb-41c4-9ee7-fbc58308c1c6" />
+
+<img width="1920" height="556" alt="Case" src="https://github.com/user-attachments/assets/3fdf1825-b230-4f52-aef6-15aed5fcfbf7" />
 
 
-<img width="491" height="556" alt="The Meshp32" src="https://github.com/user-attachments/assets/61436e90-38fb-4aca-80c9-1a3d0a538a56" />
+<img width="1920" height="736" alt="The Meshp32 Case" src="https://github.com/user-attachments/assets/842354d4-172e-43e4-8e3e-5ca51f4b69d6" />
 
 
 ## Try it out!
